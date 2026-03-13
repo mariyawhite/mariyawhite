@@ -8,3 +8,6 @@ Interests:
 - Programming languages
 
 I'm also interested in the intersection of computer science, cognitive science, and education.
+
+Learning Git and rebuilding my computer science workflow. 
+
