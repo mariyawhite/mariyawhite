@@ -7,4 +7,4 @@ Interests:
 - Hardware / verification
 - Programming languages
 
-I have a creative interest in the intersection of computer science, cognitive science, and education.
+I'm also interested in the intersection of computer science, cognitive science, and education.
